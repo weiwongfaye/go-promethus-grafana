@@ -39,6 +39,6 @@
 - Sample dash configuration in grafana_dash/demo_dash.json
 
 
-    ![alt text](demo.png "Demo")
+    ![alt text](./demo.png "Demo")
 
 
